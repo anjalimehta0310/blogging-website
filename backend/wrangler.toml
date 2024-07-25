@@ -1,0 +1,9 @@
+name = "bakend"
+compatibility_date = "2024-07-25"
+
+# [vars]
+
+
+
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiYThkMjZjY2ItMDFiYi00YTJiLWJmMDctYjk4ZmMzYTVmNTMwIiwidGVuYW50X2lkIjoiOTkxYzMxZWZmMDVkY2YwMTZiMDQ0MWM3MTI3M2E3ZTI0NjA2ZTYyYTI5M2NlYjhmNjM3NWQxYmZjYzBhMjViMyIsImludGVybmFsX3NlY3JldCI6IjVkMWJkZjRiLWY1MTMtNDdhYy04YzY3LTNlOWJjOWZhMmQzMiJ9.5zUF0YTZ5HLjoG5xeSJUqgXcJUonCLOFTqI_oZ7RMx8"
+JWT_SECRET="abcd"
